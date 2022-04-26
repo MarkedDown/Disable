@@ -10,5 +10,5 @@
 
 <!----------------------------------------------------------------------------->
 
-[Overview Settings]: Resources/Overview%20Settings.png
-[Overview]: Resources/Overview.png
+[Overview Settings]: ../Resources/Overview%20Settings.png
+[Overview]: ../Resources/Overview.png

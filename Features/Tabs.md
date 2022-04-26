@@ -12,6 +12,6 @@
 
 <!----------------------------------------------------------------------------->
 
-[Overview]: Resources/Overview.png
-[General]: Resources/General.png
-[Actions]: Resources/Actions.png
+[Overview]: ../Resources/Overview.png
+[General]: ../Resources/General.png
+[Actions]: ../Resources/Actions.png
